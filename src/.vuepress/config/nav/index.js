@@ -2,8 +2,8 @@ module.exports = [
     {
         text: '大前端',
         items: [
-            { text: 'html', link: '/FE/html/' },
-            { text: 'css', link: '/FE/css/' },
+            { text: 'HTML', link: '/FE/HTML/' },
+            { text: 'CSS', link: '/FE/CSS/' },
             { text: 'JavaScript', link: '/FE/JS/' },
             { text: 'Node', link: '/FE/Node/' },
             { text: 'Vue', link: '/FE/Vue/' },
@@ -14,9 +14,9 @@ module.exports = [
     {
         text: '前端工程化',
         items: [
-            { text: '工程化', link: '/project/proj/' },
-            { text: '模块化', link: '/project/modu/' },
-            { text: '组件化', link: '/project/comp/' },
+            { text: '工程化', link: '/project/project/' },
+            { text: '模块化', link: '/project/module/' },
+            { text: '组件化', link: '/project/component/' },
             { text: '规范化', link: '/project/lint/' },
             { text: '自动化', link: '/project/auto/' },
         ]
@@ -57,9 +57,9 @@ module.exports = [
         text: '个人站点',
         // 这里是下拉列表展现形式。
         items: [
-            { text: 'github', link: 'https://github.com/TaoXuSheng/focus-outside' },
-            { text: '博客', link: 'www.kweku.top' },
-            { text: '掘金', link: 'www.juejin.cn' },
+            { text: 'github', link: 'https://github.com/Gouwenkang?tab=repositories' },
+            { text: '博客', link: 'https://www.kweku.top' },
+            { text: '掘金', link: 'https://www.juejin.cn' },
         ]
     },
     {

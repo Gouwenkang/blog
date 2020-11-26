@@ -2,8 +2,8 @@ const themeConfig = require('./config/theme')
 
 module.exports = {
   title: "Kweku",
-  description: "kweku's blog",
-  dest: 'public',
+  description: "所有的出乎预料都是努力都结果",
+  dest: 'dist',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]

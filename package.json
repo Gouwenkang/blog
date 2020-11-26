@@ -1,14 +1,15 @@
 {
   "name": "afternoon-grocery-store",
   "version": "1.0.0",
-  "description": "recoluan's blog",
+  "description": "kweku's blog",
   "main": "index.js",
   "repository": "http://recoluan.gitlab.io",
   "author": "reco_luan",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src && npm run upload",
+    "upload":"./shell/upload.sh"
   },
   "dependencies": {
     "@vuepress/plugin-medium-zoom": "1.0.0-alpha.0",
