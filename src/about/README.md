@@ -1,10 +1,3 @@
----
-title: 关于我
-date: 2020-11-23
-tags:
-categories: 
----
-
 ###  关于我
 
 从事 WEB前端 开发，主要开发语言 `javascript`、`typescript`，熟悉使用 `Vue`、`React`、`Node` 等主流框架；
