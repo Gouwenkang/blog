@@ -1,8 +1,8 @@
 ---
-title: JavaScript
+title: TypeScript
 date: 2020-11-20
 tags:
- - js
+ - ts
 categories: 
  - FE
 ---

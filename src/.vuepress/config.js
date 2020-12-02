@@ -2,7 +2,7 @@ const themeConfig = require('./config/theme')
 
 module.exports = {
   title: "Kweku",
-  description: "所有的出乎预料都是努力都结果",
+  description: "所有的出乎预料都是努力的结果",
   dest: 'dist',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],

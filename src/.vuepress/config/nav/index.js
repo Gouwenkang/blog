@@ -5,6 +5,7 @@ module.exports = [
             { text: 'HTML', link: '/FE/HTML/' },
             { text: 'CSS', link: '/FE/CSS/' },
             { text: 'JavaScript', link: '/FE/JS/' },
+            { text: 'TypeScript', link: '/FE/TypeScript/' },
             { text: 'Node', link: '/FE/Node/' },
             { text: 'Vue', link: '/FE/Vue/' },
             { text: 'React', link: '/FE/React/' },
@@ -43,6 +44,7 @@ module.exports = [
         items: [
             { text: 'serveless', link: '/newKonw/serveless/' },
             { text: 'vite', link: '/newKonw/vite/' },
+            { text: 'WebAssembly', link: '/newKonw/vite/' },
         ]
     },
     {
