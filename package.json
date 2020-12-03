@@ -9,7 +9,8 @@
   "scripts": {
     "start": "vuepress dev src",
     "build": "vuepress build src && npm run upload",
-    "upload":"./shell/upload.sh"
+    "upload":"./shell/upload.sh",
+    "remove":"./shell/remove.sh"
   },
   "dependencies": {
     "@vuepress/plugin-medium-zoom": "1.0.0-alpha.0",
