@@ -13,13 +13,10 @@ module.exports = [
         ]
     },
     {
-        text: '前端工程化',
+        text: '前端小记',
         items: [
-            { text: '工程化', link: '/project/project/' },
-            { text: '模块化', link: '/project/module/' },
-            { text: '组件化', link: '/project/component/' },
-            { text: '规范化', link: '/project/lint/' },
-            { text: '自动化', link: '/project/auto/' },
+            { text: '前端工程化', link: '/FENotes/project/' },
+            { text: '前端新技术', link: '/FENotes/newKonw/' },
         ]
     },
     {
