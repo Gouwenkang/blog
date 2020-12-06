@@ -1,10 +1,10 @@
 {
-  "name": "afternoon-grocery-store",
+  "name": "blog",
   "version": "1.0.0",
   "description": "kweku's blog",
   "main": "index.js",
-  "repository": "http://recoluan.gitlab.io",
-  "author": "reco_luan",
+  "repository": "https://github.com/Gouwenkang",
+  "author": "kweku",
   "license": "MIT",
   "scripts": {
     "start": "vuepress dev src",
