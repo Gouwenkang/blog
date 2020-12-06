@@ -9,5 +9,4 @@ categories:
 ---
 
 ## 目录
-+ [DOCTYPE](/FE/HTML/DOCTYPE.html)
-+ [DOCTYPE](/FE/HTML/meta.html)
++ [一文带你了解DOCTYPE](/FE/HTML/DOCTYPE.html)

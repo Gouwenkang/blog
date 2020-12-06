@@ -36,15 +36,6 @@ module.exports = [
         ]
     },
     {
-        text: '前端新技术',
-        items: [
-            { text: 'serveless', link: '/newKonw/serveless/' },
-            { text: 'vite', link: '/newKonw/vite/' },
-            { text: 'WebAssembly', link: '/newKonw/WebAssembly/' },
-            { text: 'AOP', link: '/newKonw/AOP/' },
-        ]
-    },
-    {
         text: '日常小记',
         // 这里是下拉列表展现形式。
         items: [

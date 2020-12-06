@@ -1,5 +1,5 @@
 ---
-title: DOCTYPE
+title: 一文带你了解DOCTYPE
 date: 2020-12-04
 tags:
  - html
