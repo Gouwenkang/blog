@@ -14,7 +14,7 @@ categories:
 
 AOP（Aspect Oriented Programming）面向切面的编程，在程序中时常用到的某些程序步骤、阶段、片段抽离出来，与本身的程序逻辑隔离。
 
-例如：Node中读取文件、获取数据、处理数据、重新写入文件。
+例如：Node中读取文件、获取数据、处理数据、重123123123edwasdfdsfaasdf sfa新写入文件。
 
 1. 读取文件获取数据
 2. 处理加工数据
