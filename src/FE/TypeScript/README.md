@@ -1,6 +1,6 @@
 ---
 title: TypeScript
-date: 2020-11-20
+date: 2020-12-09
 tags:
  - ts
 categories: 
