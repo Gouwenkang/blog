@@ -18,6 +18,6 @@ categories:
   + git pull origin feature
   + git push origin feature
 + merge和rebase的区别
-  + 
 + vscode的 option+shift+f 格式化代码是跟根据什么来格式的
++ Git stash
 

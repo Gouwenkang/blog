@@ -271,6 +271,8 @@ let a: <T>(a: T) => T = identity
 let b: { <T>(a: T): T } = identity
 ```
 
+### 泛型接口
+
 因为对象可以用接口来修饰，所以也可以通过接口来定义泛型
 
 ```ts
@@ -310,3 +312,30 @@ interface IdentityInterface<T> {
 let c: IdentityInterface<number> = identity
 ```
 
+### 泛型类
+
+```ts
+class TestClass<T>{
+    value: T;
+    add: (x: T, y: T) => T
+}
+
+let test = new TestClass<number>()
+test.value = 1
+test.add = function (x, y) {
+    return x + y
+}
+```
+
+### 约束泛型
+
+约束x中必须含有length属性
+
+```ts
+interface LengthInterface {
+    length: number
+}
+function getWidth<T extends LengthInterface>(x: T): number {
+    return x.length
+}
+```
