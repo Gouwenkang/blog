@@ -8,4 +8,6 @@ categories:
 ---
 
 ## 目录
-+ [kweku的2020年年终总结｜掘金年度技术征文](/chaos/2020_summary.md)
++ [kweku的2020年年终总结](/chaos/2020_summary.md)
++ [kweku的秋招总结](/chaos/秋招总结.md)
++ [从里到外助你掌握前端利器-vscode](/chaos/vscode.md)
