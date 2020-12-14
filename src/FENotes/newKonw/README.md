@@ -9,7 +9,7 @@ categories:
 
 ## 目录
 + [AOP](/FENotes/newKonw/AOP.html)
-+ [serveless]]()
++ [serveless]()
 + [vite]()
 + [WebAssembly]()
 + [Web Worker]()
