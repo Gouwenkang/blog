@@ -1,10 +1,13 @@
 ---
-title: codepen
-date: 2020-11-20
+title: leetcode
+date: 2020-12-14
 tags:
  - codepen
 categories: 
  - daily
 ---
 
-（还没写到这儿来呢，待。。。）
+## 每日一练
+把自己当成一个新手，从零开始练习。
+
+github地址：[https://github.com/Gouwenkang/daily-codepen](https://github.com/Gouwenkang/daily-codepen)
