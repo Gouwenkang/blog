@@ -1,8 +1,9 @@
 ---
-title: 前端监控
+title: 前端监控和埋点
 date: 2020-12-04
 tags:
 - 前端监控
+- 埋点
 categories: 
  - FENotes
 ---

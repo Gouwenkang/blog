@@ -9,8 +9,4 @@ categories:
 
 ## 目录
 + [AOP](/FENotes/newKonw/AOP.html)
-+ [serveless]]()
-+ [vite]()
-+ [WebAssembly]()
-+ [Web Worker]()
-+ [微前端]()
++ [前端监控和埋点](/FENotes/newKonw/FEMonitor.html)
