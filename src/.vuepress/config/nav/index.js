@@ -56,6 +56,7 @@ module.exports = [
         text: '杂记&手记',
         link: '/chaos/'
     },
+    { text: '时间线', link: '/timeline/', icon: 'reco-date' },
     {
         text: '关于我',
         link: '/about/'

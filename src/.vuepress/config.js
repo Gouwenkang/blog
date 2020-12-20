@@ -9,7 +9,11 @@ module.exports = {
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   theme: 'vuepress-theme-reco',
-  themeConfig,
+  themeConfig:{
+    ...themeConfig,
+  authorAvatar: '/avater.png',
+    
+  },
   markdown: {
     lineNumbers: true
   },
