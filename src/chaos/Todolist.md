@@ -65,7 +65,7 @@ categories:
 
 ### Todo
 
-
+**短阶段**
 
 
 + typescript
@@ -80,5 +80,14 @@ categories:
 + WebAssembly
 + Web Worker
 + 单页面打包&多页面打包
+
+**长阶段**
+
+1. Node
+2. CSS
+3. JS
+
+
+
 
 
