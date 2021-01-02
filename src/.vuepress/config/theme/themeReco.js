@@ -6,7 +6,7 @@ module.exports = {
   author: 'kweku',
   // 备案号
   record: '互联网ICP备案：蜀ICP备19021355',
-  cyberSecurityLink:'https://beian.miit.gov.cn/',
+  recordLink:'https://beian.miit.gov.cn/',
   // 项目开始时间
   startYear: '2020'
 }
