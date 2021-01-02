@@ -8,4 +8,6 @@ categories:
 ---
 
 
-（还没写到这儿来呢，待。。。）
+## 目录
+
++ [装饰器模式](/computer/design/decorator.html)
