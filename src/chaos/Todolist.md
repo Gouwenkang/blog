@@ -80,6 +80,7 @@ categories:
 + WebAssembly
 + Web Worker
 + 单页面打包&多页面打包
++ 自动化构建 & 部署
 
 **长阶段**
 
