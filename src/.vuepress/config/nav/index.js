@@ -59,5 +59,6 @@ module.exports = [
     {
         text: '关于我',
         link: '/about/'
-    }
+    },
+    { text: '时间线', link: '/timeline/', icon: 'reco-date' }
 ]
