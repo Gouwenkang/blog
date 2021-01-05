@@ -67,7 +67,7 @@ categories:
 
 **短阶段**
 
-
++ 浏览器原理
 + typescript
 + vue3
 + DOM元素原型链
