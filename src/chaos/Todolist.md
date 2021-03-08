@@ -59,38 +59,3 @@ categories:
   ![image-20201210235216356](./Todolist/image-20201210235216356.png)
 
 + 解决分支冲突
-
-
-
-
-### Todo
-
-**短阶段**
-
-+ 浏览器原理
-+ typescript
-+ vue3
-+ DOM元素原型链
-+ vite
-+ npm原理-互相引用
-+ babel
-+ jsx解析流程
-+ postCss
-+ leran
-+ serveless
-+ WebAssembly
-+ Web Worker
-+ Service Worker
-+ 单页面打包&多页面打包
-+ 自动化构建 & 部署
-
-**长阶段**
-
-1. Node
-2. CSS
-3. JS
-
-
-
-
-
