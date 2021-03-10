@@ -4,7 +4,7 @@ module.exports = [
         items: [
             { text: 'HTML', link: '/FE/HTML/' },
             { text: 'CSS', link: '/FE/CSS/' },
-            { text: 'JavaScript', link: '/FE/JS/' },
+            { text: 'JavaScript', link: '/FE/JavaScript/' },
             { text: 'TypeScript', link: '/FE/TypeScript/' },
             { text: 'Node', link: '/FE/Node/' },
             { text: 'Vue', link: '/FE/Vue/' },
@@ -47,7 +47,7 @@ module.exports = [
         text: '个人站点',
         // 这里是下拉列表展现形式。
         items: [
-            { text: 'github', link: 'https://github.com/Gouwenkang?tab=repositories' },
+            { text: 'github', link: 'https://github.com/Gouwenkang' },
             { text: '博客', link: 'https://www.kweku.top' },
             { text: '掘金', link: 'https://www.juejin.cn' },
         ]
