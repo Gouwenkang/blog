@@ -8,9 +8,7 @@
   "license": "MIT",
   "scripts": {
     "start": "vuepress dev src",
-    "build": "vuepress build src && npm run upload",
-    "upload":"./shell/upload.sh",
-    "remove":"./shell/remove.sh"
+    "build": "vuepress build src"
   },
   "dependencies": {
     "@vuepress/plugin-medium-zoom": "1.0.0-alpha.0",
